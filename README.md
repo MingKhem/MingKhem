@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Uta!
 
-### A very poggers individual having fun with code :)
+### Just someone trying to get better every day.
 
 <br/>
 
