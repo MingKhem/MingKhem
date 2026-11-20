@@ -23,7 +23,7 @@
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tagam874@gmail.com)
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJoejlwanVhaXIxajhob2NmeGdpdTZ0Y29sNDdkdnF2ajF5bDF0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="250">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVvd25jYmY4dmZqZTlyZjVyaTd0ZHR5emY0Z3plM2Z5bHlpdjhiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cvyz3Hw4d7EIw/giphy.gif" width="250">
 </div>
 
 ### GitHub Activity
