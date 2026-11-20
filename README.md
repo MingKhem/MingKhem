@@ -1,16 +1,37 @@
-## Hi there 👋
+ <div align="center">
 
-<!--
-**MingKhem/MingKhem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Uta!
 
-Here are some ideas to get you started:
+### A curious mind exploring software, design, and security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=MingKhem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MingKhem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="165"/>
+
+<br/><br/>
+
+### Languages & Tools
+
+<img src="https://skillicons.dev/icons?i=kotlin,php,js,html,css,laravel,androidstudio,figma,vscode,git,github" />
+
+<br/><br/>
+
+[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/603545436388851722)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MingKhem)
+
+<br/>
+
+<img src="https://github.com/MingKhem.png" width="130" style="border-radius:50%;" />
+
+<br/><br/>
+
+### GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MingKhem&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="100%"/>
+
+<br/>
+
+<sub>These stats do not reflect my knowledge or expertise of all languages I know / use. Only my public repos!</sub>
+
+</div>
