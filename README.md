@@ -11,9 +11,6 @@
 
 <br/><br/>
 
-### Languages & Tools
-
-<img src="https://skillicons.dev/icons?i=kotlin,php,js,html,css,laravel,androidstudio,figma,vscode,git,github" />
 
 <br/><br/>
 
